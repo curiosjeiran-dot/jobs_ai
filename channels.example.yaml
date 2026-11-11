@@ -1,0 +1,7 @@
+# Copy to channels.yaml and list public channels to monitor.
+# Do not commit private or production channel lists if they are sensitive.
+
+channels:
+  - username: telegram
+    category: example
+    enabled: true

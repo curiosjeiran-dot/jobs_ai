@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+data/
+*.session
+*.session-journal
+*.db
+channels.yaml
